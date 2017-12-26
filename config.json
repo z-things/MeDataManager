@@ -8,7 +8,14 @@
     "module": "./lib/impl/me-data-manager"
   },
   "zookeeper": {
-    "host": "www.microwiz.com.cn",
+    "host": "tech-artisan.net",
     "port": 2181
+  },
+  "meshblu_server": {
+    "db_url": "mongodb://root:wzh83573100@127.0.0.1:27017/admin",
+    "host": "127.0.0.1",
+    "port": 6565,
+    "message_timeout": 30
   }
+
 }
