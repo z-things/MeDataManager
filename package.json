@@ -28,7 +28,7 @@
     "child_process": "^1.0.2",
     "fs": "0.0.1-security",
     "lodash": "^4.17.4",
-    "log4js": "^2.4.1",
+    "log4js": "^2.11.0",
     "meshblu": "^2.2.7",
     "mongoose": "^4.8.1",
     "node-schedule": "^1.2.5",
