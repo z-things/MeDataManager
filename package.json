@@ -30,7 +30,7 @@
     "lodash": "^4.17.4",
     "log4js": "^2.11.0",
     "meshblu": "^2.2.7",
-    "mongoose": "^4.8.1",
+    "mongoose": "^5.9.18",
     "node-schedule": "^1.2.5",
     "node-uuid": "^1.4.7",
     "node-zookeeper-client": "^0.2.2",
